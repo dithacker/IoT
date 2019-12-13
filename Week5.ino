@@ -1,4 +1,4 @@
-int ledPin = 7; // ledPin을 7번으로 정의
+﻿int ledPin = 5; // ledPin을 5번으로 정의
 
 void setup() {
   pinMode(ledPin, OUTPUT);    //ledPin을 출력으로 설정
